@@ -13,7 +13,6 @@ import oscP5.*;
 //import android.os.Message;
 
 
-
 KetaiBluetooth bt;
 String info = "";
 KetaiList klist;
